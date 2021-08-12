@@ -1,4 +1,3 @@
-printf("Hello C World!");
-printf("C never dies");
-printf("well c is good");
-
+printf("Hello C World!"); printf("superb");
+printf("C never dies, eheh"); 
+a=3+3;
